@@ -1,0 +1,6 @@
+# List of pictures # 
+1. blue button
+2. icon
+3. hangman 0 - 7
+4. background meadow
+5. game screenshot
